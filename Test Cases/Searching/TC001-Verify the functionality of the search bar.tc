@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Verify the functionality of the search bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b86ab53-1dd4-42f6-ab54-32b59dba3124</testCaseGuid>
+</TestCaseEntity>

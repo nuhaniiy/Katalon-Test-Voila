@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In (2)</name>
+   <tag></tag>
+   <elementGuidId>437775a7-3709-4775-83d0-4a6cf35f1876</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base']/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._920fuu5._920fuue._920fuub._920fuu6._3syuln7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d22db9d-9665-40ce-9b91-abfe486dbb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>as</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>869f7808-b536-433a-9914-1aba1d8a9570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>CT-SignIn-Btn</value>
+      <webElementGuid>f7af0e5f-504b-42e2-9985-2e8473690fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_920fuu5 _920fuue _920fuub _920fuu6 _3syuln7</value>
+      <webElementGuid>0f61fb1f-afe1-42ee-af03-648376ab2f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>b2046b05-e540-4390-9c34-613d42f86a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voila-ui&quot;)/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@class=&quot;vds-container ifvo3u0 wovzomn wovzo5a _15r4f4dvt _15r4f4dpf _15r4f4d96 _15r4f4dfk _15kd2weg _5cavep4&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/button[@class=&quot;_920fuu5 _920fuue _920fuub _920fuu6 _3syuln7&quot;]</value>
+      <webElementGuid>5f90e181-8885-4e86-af33-a00a7588aab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base']/button</value>
+      <webElementGuid>9c03314d-2bf0-4152-8dfb-67a8f74daf9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brands'])[1]/following::button[1]</value>
+      <webElementGuid>85a0943a-9525-45b0-b6ba-fa4e9d3ef42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kids'])[1]/following::button[1]</value>
+      <webElementGuid>64619eb7-914b-48b2-9253-28b0b1c0d680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::button[1]</value>
+      <webElementGuid>1d1fc805-9c23-41eb-b3b1-81f86b3e8887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited Offers'])[1]/preceding::button[2]</value>
+      <webElementGuid>33e5f235-eb75-4be1-84da-1c766e19806d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>bb55959e-59d8-4c3c-9e5c-54092dfcf2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>a9bd464d-b474-4700-a6fa-e07ce3538b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>1ff0050f-631c-407e-8727-259ad608c4d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

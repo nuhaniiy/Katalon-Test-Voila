@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify the display of a product list after a successful search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a325d256-d641-4e0b-b697-a21554d69328</testCaseGuid>
+</TestCaseEntity>

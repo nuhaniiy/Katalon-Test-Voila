@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password</name>
+   <tag></tag>
+   <elementGuidId>232d32a5-f149-41b4-9cab-95b8289c08a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='base']/div/div)[32]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._1kg30951._1kg30952</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58461097-df96-4fe7-8d84-26a2f5953ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1kg30951 _1kg30952</value>
+      <webElementGuid>df037104-8a37-4f24-b962-0cc5e0b41533</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password*</value>
+      <webElementGuid>c9eacd8c-2bfd-40c1-b9c1-a5f040aa5681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voila-ui&quot;)/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@class=&quot;vds-container ifvo3u0 wovzomn wovzo5a _15r4f4dvt _15r4f4dpf _15r4f4d96 _15r4f4dfk _15kd2weg&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/form[1]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@class=&quot;_1kg30950&quot;]/div[@class=&quot;_1kg30951 _1kg30952&quot;]</value>
+      <webElementGuid>e15b5163-bedf-4b4c-a5af-15305c943582</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='base']/div/div)[32]</value>
+      <webElementGuid>e950b045-227f-492f-9a52-d3ccb37ec4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or Phone Number*'])[1]/following::div[7]</value>
+      <webElementGuid>90e677fe-27bc-4bb5-9c7d-c77317ff4270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chasing ON Love: Exclusive IDR 150K Just For You'])[1]/following::div[39]</value>
+      <webElementGuid>330dbff4-7126-4f71-ae89-5cdf12d9039d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Must contain one uppercase letter'])[1]/preceding::div[6]</value>
+      <webElementGuid>83a12229-2348-4eaa-b8ff-73961b2e49eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div</value>
+      <webElementGuid>472ea16c-7f8d-4131-bff3-ae1d2b5b4fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password*' or . = 'Password*')]</value>
+      <webElementGuid>5d297af5-b997-45e3-a2b6-9faf60c6b7fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

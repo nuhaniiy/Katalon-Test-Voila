@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify registration with an invalid email format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5823bcd9-27a0-4daf-a815-4e3317502b36</testCaseGuid>
+</TestCaseEntity>

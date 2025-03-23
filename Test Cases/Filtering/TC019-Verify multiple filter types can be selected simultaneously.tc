@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019-Verify multiple filter types can be selected simultaneously</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32c8bd64-0f33-469d-9114-d008989a053b</testCaseGuid>
+</TestCaseEntity>

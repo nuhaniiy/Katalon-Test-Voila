@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Programs  Partnerships</name>
+   <tag></tag>
+   <elementGuidId>462f7241-1289-4ace-8633-ce1b4dd0d8f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'https://voila.id/pages/programs-and-partnerships' and (text() = 'Programs &amp; Partnerships')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32980041-ed98-440e-a9f9-03f3bbd425f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rdkhex7</value>
+      <webElementGuid>0ddfeeee-fbb2-4ff7-b561-ac67d9a139f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://voila.id/pages/programs-and-partnerships</value>
+      <webElementGuid>1a5ad6ff-75e7-4dc9-924c-0d7c575ea93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Programs &amp; Partnerships</value>
+      <webElementGuid>78b5c299-f881-44e9-afdf-c6f27c95ee63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-footer-mobile&quot;)/div[@id=&quot;base&quot;]/div[@class=&quot;vds-container ifvo3u0 wovzomn wovzo5a _15r4f4dvt _15r4f4dpf _15r4f4d96 _15r4f4dfk _15kd2weg&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/a[@class=&quot;rdkhex7&quot;]</value>
+      <webElementGuid>0c25d9e7-346b-499e-af1a-6e25c4c3365a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='base']/a)[220]</value>
+      <webElementGuid>4abfecd9-b013-4eba-9ff7-2c8ce9ff1b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Programs &amp; Partnerships')]</value>
+      <webElementGuid>be6f6345-c1df-4cb0-8c0f-c4588736925e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promotions'])[1]/following::a[1]</value>
+      <webElementGuid>cfd755ea-8f9c-4986-a135-b4368ad6cd01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[2]</value>
+      <webElementGuid>da92d270-c679-4e9c-a0b1-2a3fdd55cda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by Request'])[1]/preceding::a[1]</value>
+      <webElementGuid>ca7b5e8c-962a-4b15-964b-6853c0006695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/preceding::a[2]</value>
+      <webElementGuid>70aa0188-8f24-4cce-889b-b8cd502b04a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Programs &amp; Partnerships']/parent::*</value>
+      <webElementGuid>f6ec737f-1dc4-420b-b87a-5aa24508a1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://voila.id/pages/programs-and-partnerships')]</value>
+      <webElementGuid>7553e007-7d9a-4b1b-bd69-9e14bf5019ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/a</value>
+      <webElementGuid>e977ad75-d47b-48e7-9708-da9b30032868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://voila.id/pages/programs-and-partnerships' and (text() = 'Programs &amp; Partnerships' or . = 'Programs &amp; Partnerships')]</value>
+      <webElementGuid>5070bd73-e212-4993-843d-e718a855f1b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

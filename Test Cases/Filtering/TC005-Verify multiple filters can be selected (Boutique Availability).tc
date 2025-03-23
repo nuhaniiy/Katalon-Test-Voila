@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005-Verify multiple filters can be selected (Boutique Availability)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4c23558-4d1b-444c-a39b-d7756518fc5b</testCaseGuid>
+</TestCaseEntity>

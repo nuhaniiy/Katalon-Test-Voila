@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sign Out (2)</name>
+   <tag></tag>
+   <elementGuidId>c4dea943-0b71-4602-b762-ab0d2bf3010a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//p[@id='base'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>81c7a0c2-e343-492c-b8cb-c291eba62e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> _1ccbe2wb</value>
+      <webElementGuid>aa3da5f3-f910-4348-8b24-7bcebbc96b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>be61947d-4279-475f-a9e3-f1fdfdc3df55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>40073277-9388-45e6-b345-2f5458840d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voila-ui&quot;)/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@class=&quot;vds-container ifvo3u0 wovzomn wovzo5a _15r4f4dvt _15r4f4dpf _15r4f4d96 _15r4f4dfk _15kd2weg _5cavep4&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/p[@id=&quot;base&quot;]</value>
+      <webElementGuid>db9aa1f4-cddc-480b-82cd-400ba1505e30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//p[@id='base'])[9]</value>
+      <webElementGuid>610dbb28-e814-4f04-8e1a-571e02cc5f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='base']/p)[9]</value>
+      <webElementGuid>8dc5cb53-7d59-4057-9984-bfd8c38e548d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brands'])[1]/following::p[8]</value>
+      <webElementGuid>8d030d8b-f1ec-4cc3-9579-f1fdb8d43457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kids'])[1]/following::p[8]</value>
+      <webElementGuid>be1a4e29-86f2-4ecb-9dff-aa91e1f34aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited Offers'])[1]/preceding::p[1]</value>
+      <webElementGuid>df550a5a-7854-4ee6-9746-abd00e80feb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Arrival'])[1]/preceding::p[2]</value>
+      <webElementGuid>464309ad-caf1-4a32-8f65-25828b679216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>1e956481-08e6-4fee-9a0b-d0729e69bfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/p</value>
+      <webElementGuid>8f70fcd3-cd27-42c4-a527-93d4c530b543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'base' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>2cf28d3e-6c64-45e0-80b4-0a75a43d21d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

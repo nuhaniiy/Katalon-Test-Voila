@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007-Verify product list updates dynamically when multiple filters are applied (Stock Availability)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1738e4d-977b-4d00-9eda-be1e8f68e024</testCaseGuid>
+</TestCaseEntity>

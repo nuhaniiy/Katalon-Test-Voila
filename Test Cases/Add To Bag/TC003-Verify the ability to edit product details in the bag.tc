@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-Verify the ability to edit product details in the bag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc1ac1bd-b83f-4590-b181-ec6df28ec9e1</testCaseGuid>
+</TestCaseEntity>

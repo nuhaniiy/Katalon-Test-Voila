@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Verify the functionality to add a product to the bag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbd55e03-f5aa-432e-8e61-adddec9ff36e</testCaseGuid>
+</TestCaseEntity>

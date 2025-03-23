@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RegisterEmail or Phone NumberPasswordPa_00dda7</name>
+   <tag></tag>
+   <elementGuidId>18155105-96c6-455e-bb5e-9be1f4e47eaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='base'])[28]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d5f4116-4066-42b6-b6a3-c9c66a459ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_15kd2wesg   _15r4f4dyq _15r4f4d10l _15r4f4d16x _15r4f4d1db  _1dn2a7i4g _1dn2a7i5f _1dn2a7ib4 _1dn2a7ibb  k1xhznf</value>
+      <webElementGuid>ffcc4002-ae3e-4276-b099-e312dd23745b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>de98b3d5-c9f4-4404-918a-3bb9f77d9414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RegisterEmail or Phone Number*Password*Password must be at least 6 characters with uppercase letters, lowercase letters, and numbers.I’d like to receive exclusive offers and the latest fashion updates from voilà.id.Register AccountBy creating an account, I agree to voilà.id’s Terms &amp; Conditions and Privacy Policy.or register withLoginLogin dengan GoogleGoogleFacebookAlready registered? Sign In</value>
+      <webElementGuid>f2885c7d-d955-4ad5-b34d-79f3209b645a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voila-ui&quot;)/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@class=&quot;vds-container ifvo3u0 wovzomn wovzo5a _15r4f4dvt _15r4f4dpf _15r4f4d96 _15r4f4dfk _15kd2weg&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]</value>
+      <webElementGuid>c285475b-a758-4553-b8a5-e24b5700e0d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='base'])[28]</value>
+      <webElementGuid>faed852b-013f-4e24-ae9a-841e67f1a2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='base']/div)[26]</value>
+      <webElementGuid>ff7da347-94a1-41ec-bd2e-cd7e353b51de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chasing ON Love: Exclusive IDR 150K Just For You'])[1]/following::div[25]</value>
+      <webElementGuid>c9cf053c-e4df-45c0-983f-a5d8ef70667f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>51faf93c-2359-4ea4-b952-fdc363c4a7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'base' and (text() = 'RegisterEmail or Phone Number*Password*Password must be at least 6 characters with uppercase letters, lowercase letters, and numbers.I’d like to receive exclusive offers and the latest fashion updates from voilà.id.Register AccountBy creating an account, I agree to voilà.id’s Terms &amp; Conditions and Privacy Policy.or register withLoginLogin dengan GoogleGoogleFacebookAlready registered? Sign In' or . = 'RegisterEmail or Phone Number*Password*Password must be at least 6 characters with uppercase letters, lowercase letters, and numbers.I’d like to receive exclusive offers and the latest fashion updates from voilà.id.Register AccountBy creating an account, I agree to voilà.id’s Terms &amp; Conditions and Privacy Policy.or register withLoginLogin dengan GoogleGoogleFacebookAlready registered? Sign In')]</value>
+      <webElementGuid>fb704872-8022-4cc3-b298-14656da7894a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

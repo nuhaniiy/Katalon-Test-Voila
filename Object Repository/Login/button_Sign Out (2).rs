@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign Out (2)</name>
+   <tag></tag>
+   <elementGuidId>2d0af187-840c-4c8d-9174-ee42684fb8be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='base']/button[2])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._920fuu5._920fuuf._920fuub._920fuu6._920fuui</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>036ce4ee-9ac9-43e2-9b72-cf04254ca05c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>as</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df521695-db3d-4756-93b7-d2d641e021af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>CT_SignOut_Confirm</value>
+      <webElementGuid>4d272d8a-8f32-4f0c-87cb-b62a1a947937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_920fuu5 _920fuuf _920fuub _920fuu6 _920fuui</value>
+      <webElementGuid>84369954-1e97-4b10-8b3a-0b67ae06bcff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>3d042b6c-d73c-4b2c-9d54-e3924975fe2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:rt:&quot;)/div[@id=&quot;base&quot;]/div[@class=&quot;_1jc0z8o1&quot;]/div[@id=&quot;base&quot;]/button[@class=&quot;_920fuu5 _920fuuf _920fuub _920fuu6 _920fuui&quot;]</value>
+      <webElementGuid>9e07c755-86d9-4b6e-ae17-2732320b6672</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='base']/button[2])[8]</value>
+      <webElementGuid>bffd65ba-1954-46ed-aa4c-8bfcf020f50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>e38bbdc6-e1c0-4019-b953-fff0d9b43631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/following::button[2]</value>
+      <webElementGuid>14104b21-d594-4162-994b-6ba424b1665e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/button[2]</value>
+      <webElementGuid>e3a0d397-8292-4d9a-84a1-fc38249630e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>22b8e549-d0a7-4c2a-a0bf-cc4169696a35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

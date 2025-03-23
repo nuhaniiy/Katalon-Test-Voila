@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify the ability to add multiple products to the bag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2a0b6be-63bd-4edc-a6ed-4af0345966b9</testCaseGuid>
+</TestCaseEntity>

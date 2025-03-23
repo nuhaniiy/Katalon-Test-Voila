@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FAQ Keaslian dan Ketersediaan Produk</name>
+   <tag></tag>
+   <elementGuidId>f46e0493-0f62-4bbf-a7e5-e1a5208f003f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.article-list-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/section/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6da67e49-da23-49b2-b01c-19d8c8a16e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hc/id/articles/27981177444505-FAQ-Keaslian-dan-Ketersediaan-Produk</value>
+      <webElementGuid>81d39fdd-95c5-43e4-9041-0eb7ae86aedd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>article-list-link</value>
+      <webElementGuid>d4a10432-5a5f-46a6-9302-3c79938aeab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ Keaslian dan Ketersediaan Produk</value>
+      <webElementGuid>12174eb3-0920-40cb-85f9-2a5200c8928e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/section[@class=&quot;section&quot;]/ul[@class=&quot;article-list&quot;]/li[@class=&quot;article-list-item&quot;]/a[@class=&quot;article-list-link&quot;]</value>
+      <webElementGuid>7054dd17-e567-4355-8bae-fa2c9ab50c6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/section/ul/li/a</value>
+      <webElementGuid>ad5c4f29-e614-401d-ad85-42364a1f3464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'FAQ Keaslian dan Ketersediaan Produk')]</value>
+      <webElementGuid>0b496fe0-3d91-438c-9bca-925f80fcefa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[1]</value>
+      <webElementGuid>49019fa1-9155-4712-981f-8faf65dec50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seputar Produk'])[2]/following::a[1]</value>
+      <webElementGuid>de3479b3-80c8-4f1d-83a6-8e29dec70ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ Preloved'])[1]/preceding::a[1]</value>
+      <webElementGuid>299018d9-f3db-4f35-8d59-917278fd1079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ Preorder'])[1]/preceding::a[2]</value>
+      <webElementGuid>43468fe2-3a5d-4efe-8dd5-eedaaf40f492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FAQ Keaslian dan Ketersediaan Produk']/parent::*</value>
+      <webElementGuid>065774c3-0a0d-4085-9c25-ead563f5830a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hc/id/articles/27981177444505-FAQ-Keaslian-dan-Ketersediaan-Produk')]</value>
+      <webElementGuid>ca4cc593-dbcb-4bf2-b180-e96e87ff312b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li/a</value>
+      <webElementGuid>bbb94f86-5b44-4bcf-ad70-5938dfc1a807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hc/id/articles/27981177444505-FAQ-Keaslian-dan-Ketersediaan-Produk' and (text() = 'FAQ Keaslian dan Ketersediaan Produk' or . = 'FAQ Keaslian dan Ketersediaan Produk')]</value>
+      <webElementGuid>99439de1-de7f-4c62-870d-44130aeae1a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

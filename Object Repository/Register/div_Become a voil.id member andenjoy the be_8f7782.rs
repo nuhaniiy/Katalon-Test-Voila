@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Become a voil.id member andenjoy the be_8f7782</name>
+   <tag></tag>
+   <elementGuidId>162142c2-2914-430f-a1ac-5cbb250f8bb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='base'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9772bfb-8b5c-4557-ae73-9e68eb753596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_15kd2wesg _15kd2weu9   _15r4f4d154 _15r4f4d178 _15r4f4d1bi _15r4f4d1dr</value>
+      <webElementGuid>4b9cf669-0557-411a-993e-f99a39a34679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>e0ecc783-f922-44a4-9403-c300c7b92940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Become a voilà.id member andenjoy the benefits100% AuthenticGet 100% authentic luxury items delivered to you.Welcome RewardsEnjoy 200.000 voilàPoints right after you register.Purchase HistoryTrack all of your online orders and in-boutique purchases.RegisterEmail or Phone Number*Please enter email or phone number.Password*Please create a password.I’d like to receive exclusive offers and the latest fashion updates from voilà.id.Register AccountBy creating an account, I agree to voilà.id’s Terms &amp; Conditions and Privacy Policy.or register withGoogleFacebookAlready registered? Sign In</value>
+      <webElementGuid>eb5e96a8-61bb-4153-b775-0ffe4292e98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voila-ui&quot;)/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]</value>
+      <webElementGuid>d237fd73-a831-4224-b7bd-6d5fef8e3d29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='base'])[7]</value>
+      <webElementGuid>6545b309-8a89-4f24-ab4c-3bc7cfeae2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base']/div[2]</value>
+      <webElementGuid>755ff849-ca81-4eab-9bff-48155d8f041f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🎉 BCA 68th Anniversary: Up to IDR 1 Mio OFF!'])[1]/following::div[3]</value>
+      <webElementGuid>d196f4d3-a9b0-495b-9c20-6515172c6f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow'])[1]/following::div[9]</value>
+      <webElementGuid>a684a8fa-7848-464d-8361-6376b57f82e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>4d72369c-f287-4add-b3e2-d4f78c4fcf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'base' and (text() = 'Become a voilà.id member andenjoy the benefits100% AuthenticGet 100% authentic luxury items delivered to you.Welcome RewardsEnjoy 200.000 voilàPoints right after you register.Purchase HistoryTrack all of your online orders and in-boutique purchases.RegisterEmail or Phone Number*Please enter email or phone number.Password*Please create a password.I’d like to receive exclusive offers and the latest fashion updates from voilà.id.Register AccountBy creating an account, I agree to voilà.id’s Terms &amp; Conditions and Privacy Policy.or register withGoogleFacebookAlready registered? Sign In' or . = 'Become a voilà.id member andenjoy the benefits100% AuthenticGet 100% authentic luxury items delivered to you.Welcome RewardsEnjoy 200.000 voilàPoints right after you register.Purchase HistoryTrack all of your online orders and in-boutique purchases.RegisterEmail or Phone Number*Please enter email or phone number.Password*Please create a password.I’d like to receive exclusive offers and the latest fashion updates from voilà.id.Register AccountBy creating an account, I agree to voilà.id’s Terms &amp; Conditions and Privacy Policy.or register withGoogleFacebookAlready registered? Sign In')]</value>
+      <webElementGuid>b15d50ee-e7aa-4498-9db9-fa9a5efaa3b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

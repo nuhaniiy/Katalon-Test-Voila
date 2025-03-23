@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-Verify the functionality of no results for invalid search terms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3461313-20da-4226-af54-f85d6ed3c2b8</testCaseGuid>
+</TestCaseEntity>

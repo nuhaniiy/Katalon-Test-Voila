@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign InSign in to shop with vouchers, t_a2df00 (1)</name>
+   <tag></tag>
+   <elementGuidId>54122d42-3d27-415f-a724-24aa7f20fc72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='base'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec25d52f-a6bd-4df1-980c-0e27052acda0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_15kd2wesg _15kd2weu9   _15r4f4d154 _15r4f4d178 _15r4f4d1bi _15r4f4d1dr</value>
+      <webElementGuid>7338ae3e-a0e0-42fe-912b-c879cfe73ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>66ab9365-8b71-434b-9b06-b4ade0ac8714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign InSign in to shop with vouchers, track your order, and save your favorite products.Email or Phone Number*Please enter a valid email format or phone number.Sign Inor sign in withLoginLogin dengan GoogleGoogleFacebookDon’t have an account? Register here</value>
+      <webElementGuid>ef086fc0-f7cf-4a1c-aabf-5851ede3847f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;voila-ui&quot;)/div[@id=&quot;base&quot;]/div[@id=&quot;base&quot;]</value>
+      <webElementGuid>a6c5ead3-868f-4833-a2ab-16392d56362a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='base'])[7]</value>
+      <webElementGuid>e2a8cb28-df0a-4646-b36c-c0b98c1f5f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base']/div[2]</value>
+      <webElementGuid>1e3e8d28-049b-49ed-b75d-0ec457588689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chasing ON Love: Exclusive IDR 150K Just For You'])[1]/following::div[3]</value>
+      <webElementGuid>97553810-ef86-4241-b865-a4465d378e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow'])[1]/following::div[9]</value>
+      <webElementGuid>c23c43e8-dd16-4792-bad5-e5ce5a24370b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>51bd5162-e005-4cb6-bb96-4bedc08a52c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'base' and (text() = 'Sign InSign in to shop with vouchers, track your order, and save your favorite products.Email or Phone Number*Please enter a valid email format or phone number.Sign Inor sign in withLoginLogin dengan GoogleGoogleFacebookDon’t have an account? Register here' or . = 'Sign InSign in to shop with vouchers, track your order, and save your favorite products.Email or Phone Number*Please enter a valid email format or phone number.Sign Inor sign in withLoginLogin dengan GoogleGoogleFacebookDon’t have an account? Register here')]</value>
+      <webElementGuid>5f8479f0-cf87-4bbe-ba10-36ef485e108c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

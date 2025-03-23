@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify login with an invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce1ed9eb-50bd-4621-a96d-e445a52e4775</testCaseGuid>
+</TestCaseEntity>

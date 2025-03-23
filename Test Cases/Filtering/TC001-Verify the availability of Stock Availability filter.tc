@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Verify the availability of Stock Availability filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad8fd880-afcc-4e4c-91e2-b2990132a954</testCaseGuid>
+</TestCaseEntity>
