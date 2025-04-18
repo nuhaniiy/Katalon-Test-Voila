@@ -4,8 +4,12 @@
    <name>Voila</name>
    <tag></tag>
    <UUID>e87c0261-d95f-42c1-80e8-c0f02d61ef17</UUID>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.1.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Nurul Handayani\Katalon Studio\Voila.id\Voila.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

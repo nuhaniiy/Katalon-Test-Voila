@@ -4,5 +4,6 @@
    <name>TC002-Verify that users can view FAQ content about product authenticity</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f2b0bbe8-44ff-4a6c-968d-f183ffc1efa0</testCaseGuid>
 </TestCaseEntity>

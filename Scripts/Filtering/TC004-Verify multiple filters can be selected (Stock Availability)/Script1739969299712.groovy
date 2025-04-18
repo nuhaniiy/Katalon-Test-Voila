@@ -22,11 +22,20 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url + '/gender/women-618')
 
 WebUI.maximizeWindow()
+WebUI.delay(3)
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('Object Repository/allow notif'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text filter'), 0)
 WebUI.takeScreenshot()
+WebUI.click(findTestObject('Object Repository/Filtering/text filter'))
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Filtering/text ready stock'))
+WebUI.takeScreenshot()
+
+
+WebUI.click(findTestObject('Object Repository/Filtering/text preloved 1'))
 WebUI.takeScreenshot()
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text available voucher'), 0)
@@ -34,11 +43,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Filtering/text read
 
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text filter'), 0)
-WebUI.takeScreenshot()
-
-WebUI.click(findTestObject('Object Repository/Filtering/text preloved 1'))
-WebUI.takeScreenshot()
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text available voucher'), 0)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Filtering/text preloved 2'), 0, FailureHandling.STOP_ON_FAILURE)

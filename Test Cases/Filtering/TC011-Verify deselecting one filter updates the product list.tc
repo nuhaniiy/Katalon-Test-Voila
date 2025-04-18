@@ -4,5 +4,6 @@
    <name>TC011-Verify deselecting one filter updates the product list</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4222ce75-73c2-47b4-a98b-beeb8ee778be</testCaseGuid>
 </TestCaseEntity>

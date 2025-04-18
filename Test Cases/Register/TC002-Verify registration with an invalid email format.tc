@@ -4,5 +4,6 @@
    <name>TC002-Verify registration with an invalid email format</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>5823bcd9-27a0-4daf-a815-4e3317502b36</testCaseGuid>
 </TestCaseEntity>

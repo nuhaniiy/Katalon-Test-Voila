@@ -4,5 +4,6 @@
    <name>TC003-Verify navigation to Blog page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>451ab808-445a-4401-a734-46db1ef71982</testCaseGuid>
 </TestCaseEntity>

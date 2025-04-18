@@ -22,6 +22,9 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url + '/account/login')
 
 WebUI.maximizeWindow()
+WebUI.delay(3)
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('Object Repository/allow notif'))
 
 WebUI.waitForPageLoad(10)
 

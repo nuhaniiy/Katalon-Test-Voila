@@ -4,5 +4,6 @@
    <name>TC004-Verify multiple filters can be selected (Stock Availability)</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>b8b5c3e5-b854-46b1-803b-e528ff9974b1</testCaseGuid>
 </TestCaseEntity>

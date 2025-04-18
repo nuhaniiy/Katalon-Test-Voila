@@ -6,14 +6,14 @@
    <elementGuidId>00514e17-0f11-482c-bf6f-f1c909fcc8f7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//p[contains(., &quot;product&quot;)]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//p[text()=&quot;products found&quot;]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

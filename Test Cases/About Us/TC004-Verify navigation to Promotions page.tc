@@ -4,5 +4,6 @@
    <name>TC004-Verify navigation to Promotions page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>e3b9a019-6916-4a2f-91e9-3ad404178413</testCaseGuid>
 </TestCaseEntity>

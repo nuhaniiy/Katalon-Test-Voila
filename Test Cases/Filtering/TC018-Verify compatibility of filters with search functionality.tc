@@ -4,5 +4,6 @@
    <name>TC018-Verify compatibility of filters with search functionality</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>7e6d3357-adea-4fea-beda-5658cb81cb99</testCaseGuid>
 </TestCaseEntity>

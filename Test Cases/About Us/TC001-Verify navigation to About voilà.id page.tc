@@ -4,5 +4,6 @@
    <name>TC001-Verify navigation to About voilà.id page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>60462947-739a-4a9d-9dca-89e29879c675</testCaseGuid>
 </TestCaseEntity>

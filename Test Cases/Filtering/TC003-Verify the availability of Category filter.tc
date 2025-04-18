@@ -4,5 +4,6 @@
    <name>TC003-Verify the availability of Category filter</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>302e653d-804d-411e-a272-ee948cfb91cd</testCaseGuid>
 </TestCaseEntity>

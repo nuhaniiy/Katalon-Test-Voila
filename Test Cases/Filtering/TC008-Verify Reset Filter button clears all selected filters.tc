@@ -4,5 +4,6 @@
    <name>TC008-Verify Reset Filter button clears all selected filters</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>5f026b57-b9f2-4f6f-81d3-279dbbcfc630</testCaseGuid>
 </TestCaseEntity>

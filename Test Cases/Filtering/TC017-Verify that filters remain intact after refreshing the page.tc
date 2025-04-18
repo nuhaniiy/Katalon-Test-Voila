@@ -4,5 +4,6 @@
    <name>TC017-Verify that filters remain intact after refreshing the page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>bd9a81e7-e234-4b91-a631-5c8f492a03e0</testCaseGuid>
 </TestCaseEntity>

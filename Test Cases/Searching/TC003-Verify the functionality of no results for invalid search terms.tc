@@ -4,5 +4,6 @@
    <name>TC003-Verify the functionality of no results for invalid search terms</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>e3461313-20da-4226-af54-f85d6ed3c2b8</testCaseGuid>
 </TestCaseEntity>

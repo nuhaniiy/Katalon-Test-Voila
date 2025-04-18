@@ -4,5 +4,6 @@
    <name>TC001-Verify that users can access the FAQ page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>622ba9d8-6944-464b-8058-a13d8817b083</testCaseGuid>
 </TestCaseEntity>

@@ -21,7 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.maximizeWindow()
+WebUI.maximizeWindow()WebUI.delay(3)
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('Object Repository/allow notif'))
+
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Register/button_Register'), 0, FailureHandling.STOP_ON_FAILURE)
 

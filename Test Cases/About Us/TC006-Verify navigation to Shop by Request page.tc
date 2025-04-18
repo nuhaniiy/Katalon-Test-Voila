@@ -4,5 +4,6 @@
    <name>TC006-Verify navigation to Shop by Request page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>347f6134-6e29-4679-94e2-96dfac83759b</testCaseGuid>
 </TestCaseEntity>

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>text Accessories2</name>
+   <name>Body</name>
    <tag></tag>
-   <elementGuidId>dee33979-0f1b-4552-8cc7-3527cc094788</elementGuidId>
+   <elementGuidId>75615916-c04a-4016-9b44-e2a679c63c36</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//span[text()=&quot;Glasses&quot;])</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

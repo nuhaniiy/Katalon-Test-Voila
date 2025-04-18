@@ -4,5 +4,6 @@
    <name>TC009-Verify product list updates dynamically when a single filter is applied (Boutique Availability)</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>9e81212e-397c-4368-bd95-d36d7dbf9940</testCaseGuid>
 </TestCaseEntity>
