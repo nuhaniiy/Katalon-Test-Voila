@@ -4,5 +4,6 @@
    <name>TC006-Verify the ability to view bag summary before checkout</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>b9f9694a-99d8-4bd4-81d8-891506e8f56c</testCaseGuid>
 </TestCaseEntity>

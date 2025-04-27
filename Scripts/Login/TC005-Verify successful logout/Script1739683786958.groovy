@@ -21,29 +21,39 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url)
 
-
 WebUI.maximizeWindow()
+
+WebUI.delay(3)
+
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+
+WebUI.click(findTestObject('Object Repository/allow notif'))
+
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Login/button_Sign In (10)'))
+
 WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/Login/input_Chasing ON Love Exclusive IDR 150K Ju_a78a44 (8)'), 'nurulhndyni@gmail.com')
 
-WebUI.setText(findTestObject('Login/input_Email or Phone Number_password'), 'Aaaa@222')
+WebUI.setEncryptedText(findTestObject('Login/input_Email or Phone Number_password'), 'iwnnYa2put9l1V/F7u0+1w==')
 
 WebUI.click(findTestObject('Object Repository/Login/button_Sign In (11)'))
 
 WebUI.waitForPageLoad(10)
+
 WebUI.delay(3)
+
 WebUI.takeScreenshot()
 
-WebUI.navigateToUrl(GlobalVariable.url +'/account/my-profile')
+WebUI.navigateToUrl(GlobalVariable.url + '/account/my-profile')
 
 //WebUI.click(findTestObject('Object Repository/Login/Nama Profil'))
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Login/div_Sign Out'))
+
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Login/button_Sign Out (4)'))

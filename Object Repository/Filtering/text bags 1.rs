@@ -10,9 +10,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//p[text()=&quot;Bags&quot;])[1]</value>
+         <value>(//button[@data-test-id=&quot;CT-filter-checkbox&quot;])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

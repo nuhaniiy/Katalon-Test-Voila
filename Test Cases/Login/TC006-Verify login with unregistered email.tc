@@ -4,5 +4,6 @@
    <name>TC006-Verify login with unregistered email</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>02ee8a7f-8fa0-4a9e-9f04-140132345a15</testCaseGuid>
 </TestCaseEntity>

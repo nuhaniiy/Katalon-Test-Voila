@@ -4,5 +4,6 @@
    <name>TC012-Verify filter persistence after navigation</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>1185ef95-804f-4f0e-8fcf-9bde253dbe59</testCaseGuid>
 </TestCaseEntity>

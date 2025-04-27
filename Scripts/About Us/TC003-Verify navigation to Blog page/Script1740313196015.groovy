@@ -20,6 +20,9 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url)
 WebUI.maximizeWindow()
+WebUI.delay(3)
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('Object Repository/allow notif'))
 
 WebUI.takeScreenshot()
 WebUI.scrollToElement(findTestObject('Object Repository/About/a_Blog'), 10)

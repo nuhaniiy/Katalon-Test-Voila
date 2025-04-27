@@ -22,8 +22,8 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
-WebUI.verifyElementPresent(findTestObject('Object Repository/allow notif'), 0, FailureHandling.STOP_ON_FAILURE)
-WebUI.takeScreenshot()
+WebUI.delay(3)
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
 WebUI.click(findTestObject('Object Repository/allow notif'))
 WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Searching/search bar'))
@@ -38,10 +38,13 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Searching/img_Rp2.7
 WebUI.takeScreenshot()
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text filter'), 0)
+WebUI.click(findTestObject('Object Repository/Filtering/text filter'), FailureHandling.STOP_ON_FAILURE)
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Filtering/text ready stock'))
 WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Filtering/btn show result'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text adidas samba'), 0)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Filtering/text ready stock 2'), 0, FailureHandling.STOP_ON_FAILURE)

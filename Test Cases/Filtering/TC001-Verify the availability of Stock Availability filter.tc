@@ -4,5 +4,6 @@
    <name>TC001-Verify the availability of Stock Availability filter</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>ad8fd880-afcc-4e4c-91e2-b2990132a954</testCaseGuid>
 </TestCaseEntity>

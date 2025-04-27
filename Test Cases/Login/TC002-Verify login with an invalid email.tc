@@ -4,5 +4,6 @@
    <name>TC002-Verify login with an invalid email</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>ce1ed9eb-50bd-4621-a96d-e445a52e4775</testCaseGuid>
 </TestCaseEntity>

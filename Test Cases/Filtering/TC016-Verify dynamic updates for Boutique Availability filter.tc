@@ -4,5 +4,6 @@
    <name>TC016-Verify dynamic updates for Boutique Availability filter</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>3d1e9cb8-b7fa-4575-9c95-26ce2ffd5f48</testCaseGuid>
 </TestCaseEntity>

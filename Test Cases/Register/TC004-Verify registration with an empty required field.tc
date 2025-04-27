@@ -4,5 +4,6 @@
    <name>TC004-Verify registration with an empty required field</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>87c0faa1-b7bb-4bbb-b4fe-41f21a508ec2</testCaseGuid>
 </TestCaseEntity>

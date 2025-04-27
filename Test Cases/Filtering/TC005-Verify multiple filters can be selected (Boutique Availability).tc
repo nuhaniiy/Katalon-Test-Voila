@@ -4,5 +4,6 @@
    <name>TC005-Verify multiple filters can be selected (Boutique Availability)</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f4c23558-4d1b-444c-a39b-d7756518fc5b</testCaseGuid>
 </TestCaseEntity>

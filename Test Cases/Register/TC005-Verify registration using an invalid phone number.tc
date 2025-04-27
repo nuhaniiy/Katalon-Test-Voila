@@ -4,5 +4,6 @@
    <name>TC005-Verify registration using an invalid phone number</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>b9609cbc-01a4-42b2-8d34-aa7d979afde6</testCaseGuid>
 </TestCaseEntity>

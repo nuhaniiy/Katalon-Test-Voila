@@ -22,6 +22,9 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
+WebUI.delay(3)
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('Object Repository/allow notif'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/FAQ/a_Help Center'), 0, FailureHandling.STOP_ON_FAILURE)
 
@@ -29,8 +32,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/FAQ/a_Help Center')
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/allow notif'))
-WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/FAQ/a_Help Center'))
 

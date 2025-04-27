@@ -4,5 +4,6 @@
    <name>TC006-Verify product list updates dynamically when a single filter is applied (Stock Availability)</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>0eb89068-487d-4431-903f-268349328e67</testCaseGuid>
 </TestCaseEntity>

@@ -4,5 +4,6 @@
    <name>TC005-Verify successful logout</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>be910ef6-9303-4734-89a0-65d898d95a7d</testCaseGuid>
 </TestCaseEntity>

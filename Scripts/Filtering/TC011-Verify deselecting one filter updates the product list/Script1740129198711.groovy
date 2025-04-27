@@ -19,28 +19,35 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+//ini kamu buka url yang sudah di filter ready stock, preloved
 WebUI.navigateToUrl(GlobalVariable.url + '/gender/women-618?stockAvailability=isReadyStock,isPreloved&page=1')
 
 WebUI.maximizeWindow()
+WebUI.delay(3)
+// ini ngilangin register
+WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+WebUI.click(findTestObject('Object Repository/allow notif'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text filter'), 0)
 WebUI.takeScreenshot()
 
+WebUI.click(findTestObject('Object Repository/Filtering/text filter'))
+WebUI.takeScreenshot()
+
+//ini uncheck ready stock
 WebUI.click(findTestObject('Object Repository/Filtering/text ready stock'))
 WebUI.takeScreenshot()
 
+//klik tombol show result
+WebUI.click(findTestObject('Object Repository/Filtering/btn show result'))
+
+//scroll ke available voucher
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text available voucher'), 0)
+
+//verifikasi text ready stock yang filter gak ada
 WebUI.verifyElementNotPresent(findTestObject('Object Repository/Filtering/text ready stock 2'), 0, FailureHandling.STOP_ON_FAILURE)
 WebUI.takeScreenshot()
 
-WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text filter'), 0)
-WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Filtering/text preloved 1'))
-WebUI.takeScreenshot()
-
-WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text available voucher'), 0)
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Filtering/text preloved 2'), 0, FailureHandling.STOP_ON_FAILURE)
-WebUI.takeScreenshot()
-
+//close brwoser
 WebUI.closeBrowser()

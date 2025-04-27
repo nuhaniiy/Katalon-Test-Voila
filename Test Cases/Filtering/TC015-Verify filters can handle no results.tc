@@ -4,5 +4,6 @@
    <name>TC015-Verify filters can handle no results</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>9ef4e66d-be58-4e60-9b1e-9c147cd6f154</testCaseGuid>
 </TestCaseEntity>

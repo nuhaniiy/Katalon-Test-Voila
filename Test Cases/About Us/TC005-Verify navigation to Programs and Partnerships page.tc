@@ -4,5 +4,6 @@
    <name>TC005-Verify navigation to Programs and Partnerships page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>b2984c96-df55-474c-804e-3e4eb0e58a01</testCaseGuid>
 </TestCaseEntity>

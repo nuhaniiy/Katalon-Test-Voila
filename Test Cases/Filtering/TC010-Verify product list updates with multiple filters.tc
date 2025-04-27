@@ -4,5 +4,6 @@
    <name>TC010-Verify product list updates with multiple filters</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>9f227a35-6d0a-4db0-9bbb-c0974e93c992</testCaseGuid>
 </TestCaseEntity>

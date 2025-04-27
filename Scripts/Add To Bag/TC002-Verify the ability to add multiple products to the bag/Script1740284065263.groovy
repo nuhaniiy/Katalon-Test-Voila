@@ -21,8 +21,8 @@ WebUI.callTestCase(findTestCase('Login/TC001-Verify successful login with valid 
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/allow notif'), 3, FailureHandling.OPTIONAL)
 WebUI.takeScreenshot()
-WebUI.click(findTestObject('Object Repository/allow notif'))
-WebUI.takeScreenshot()
+//WebUI.click(findTestObject('Object Repository/allow notif'))
+//WebUI.takeScreenshot()
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
 WebUI.click(findTestObject('Object Repository/Searching/search bar'))
 WebUI.verifyElementPresent(findTestObject('Object Repository/Searching/input search'), 0, FailureHandling.STOP_ON_FAILURE)

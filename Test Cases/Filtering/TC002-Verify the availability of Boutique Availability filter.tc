@@ -4,5 +4,6 @@
    <name>TC002-Verify the availability of Boutique Availability filter</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>095239c6-f830-4569-af27-16c6fd9bbaf0</testCaseGuid>
 </TestCaseEntity>

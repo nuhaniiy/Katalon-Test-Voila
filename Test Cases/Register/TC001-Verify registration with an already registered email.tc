@@ -4,5 +4,6 @@
    <name>TC001-Verify registration with an already registered email</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>20f231c1-3bce-4ed5-a2f3-ee2874f72b1d</testCaseGuid>
 </TestCaseEntity>

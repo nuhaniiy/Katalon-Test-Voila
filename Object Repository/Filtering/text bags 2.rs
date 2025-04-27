@@ -10,9 +10,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//p[text()=&quot;Bags&quot;])[2]</value>
+         <value>(//span[text()=&quot;Backpacks&quot;])</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
