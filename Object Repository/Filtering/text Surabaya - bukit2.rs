@@ -10,9 +10,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//p[text()=&quot;Surabaya - Bukit Darmo Golf&quot;])[1]</value>
+         <value>(//span[text()=&quot;Surabaya - Bukit Darmo Golf&quot;])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

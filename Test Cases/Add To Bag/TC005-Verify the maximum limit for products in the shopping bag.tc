@@ -4,5 +4,6 @@
    <name>TC005-Verify the maximum limit for products in the shopping bag</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>51969bab-5239-44fb-8855-c2a76645dc0a</testCaseGuid>
 </TestCaseEntity>

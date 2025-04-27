@@ -4,5 +4,6 @@
    <name>TC007-Verify that adding an out-of-stock product to the bag displays a warning</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4d60f586-4498-4692-83bf-0baca913eef2</testCaseGuid>
 </TestCaseEntity>

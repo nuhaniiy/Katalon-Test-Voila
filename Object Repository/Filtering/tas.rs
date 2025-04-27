@@ -10,9 +10,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//span[text()=&quot;The Row&quot;])[2]</value>
+         <value>(//span[text()=&quot;By The Way Selleria Medium 192 Handsewn Stitches Handbag White&quot;])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

@@ -4,5 +4,6 @@
    <name>TC002-Verify the ability to add multiple products to the bag</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f2a0b6be-63bd-4edc-a6ed-4af0345966b9</testCaseGuid>
 </TestCaseEntity>

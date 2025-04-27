@@ -4,5 +4,6 @@
    <name>TC004-Verify the ability to remove a product from the bag</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>188a19b1-12b2-48a8-9459-d2173fa51041</testCaseGuid>
 </TestCaseEntity>

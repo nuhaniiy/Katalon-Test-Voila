@@ -22,8 +22,11 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url + '/account/login')
 
 WebUI.maximizeWindow()
+
 WebUI.delay(3)
+
 WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
+
 WebUI.click(findTestObject('Object Repository/allow notif'))
 
 WebUI.waitForPageLoad(10)
@@ -35,7 +38,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Login/input_Chasing
 
 WebUI.setText(findTestObject('Object Repository/Login/input_Chasing ON Love Exclusive IDR 150K Ju_a78a44'), 'nurulhndyni@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Login/input_Email or Phone Number_password'), 'Nb0Rngs+MrcxUEugUMzcsg==')
+WebUI.setEncryptedText(findTestObject('Login/input_Email or Phone Number_password'), 'iwnnYa2put9l1V/F7u0+1w==')
 
 WebUI.takeScreenshot()
 

@@ -21,8 +21,8 @@ WebUI.callTestCase(findTestCase('Login/TC001-Verify successful login with valid 
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/allow notif'), 3, FailureHandling.OPTIONAL)
 WebUI.takeScreenshot()
-WebUI.click(findTestObject('Object Repository/allow notif'))
-WebUI.takeScreenshot()
+//WebUI.click(findTestObject('Object Repository/allow notif'))
+//WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Add to Bag/Bag Menu'), FailureHandling.STOP_ON_FAILURE)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Add to Bag/Asics 3'), 0, FailureHandling.STOP_ON_FAILURE)

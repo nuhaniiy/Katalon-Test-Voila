@@ -30,8 +30,12 @@ WebUI.click(findTestObject('Object Repository/allow notif'))
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text filter'), 0)
 WebUI.takeScreenshot()
 
+WebUI.click(findTestObject('Object Repository/Filtering/text filter'))
+
 WebUI.click(findTestObject('Object Repository/Filtering/text ready stock'))
 WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Filtering/btn show result'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Filtering/text available voucher'), 0)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Filtering/text ready stock 2'), 0, FailureHandling.STOP_ON_FAILURE)

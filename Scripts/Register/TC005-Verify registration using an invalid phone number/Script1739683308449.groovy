@@ -21,7 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.maximizeWindow()WebUI.delay(3)
+WebUI.maximizeWindow()
+WebUI.delay(3)
 WebUI.sendKeys(findTestObject('Body'), Keys.chord(Keys.ESCAPE))
 WebUI.click(findTestObject('Object Repository/allow notif'))
 

@@ -32,8 +32,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/FAQ/a_Help Center')
 
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/allow notif'))
-WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/FAQ/a_Help Center'))
 

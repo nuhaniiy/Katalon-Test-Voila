@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>text bags 1</name>
+   <name>text Medan</name>
    <tag></tag>
-   <elementGuidId>c53bccc5-70f5-4ba5-8867-44842c151cf9</elementGuidId>
+   <elementGuidId>dd2bb258-c77a-45c8-862e-7305c3a68d03</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@data-test-id=&quot;CT-filter-checkbox&quot;])[1]</value>
+         <value>(//p[text()=&quot;Medan - Sun Plaza&quot;])</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
